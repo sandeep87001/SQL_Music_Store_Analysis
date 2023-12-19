@@ -1,5 +1,6 @@
 # SQL_Music_Store_Analysis
 <br>
+<b>
 Title: SQL Music Store Analysis
 
 Description:
@@ -29,3 +30,4 @@ Key Components:
 10. **Documentation and Presentation:** Document the entire process, including the database schema, SQL queries, and analysis results. Create a compelling presentation summarizing key insights and showcasing the impact of the analysis on business decision-making.
 
 By completing the SQL Music Store Analysis project, you'll demonstrate your proficiency in database design, SQL querying, and data analysis, showcasing your ability to derive valuable insights from a relational database in a business context.
+</b>
